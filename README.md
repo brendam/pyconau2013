@@ -1,4 +1,4 @@
-pyconau2013
+Exploring Science on Twitter
 ===========
 
 Pyconau 2013 talk - Exploring Science on Twitter with IPython Notebook and Python Pandas
